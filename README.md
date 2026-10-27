@@ -1,0 +1,2 @@
+# GeneralChatbot
+基于OCR识别和自动化操作来接入任意聊天软件的AI智能体工具
