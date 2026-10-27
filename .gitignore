@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist_pyinstaller/
+dist_nuitka/
+chatbot.log
+chatbot.log.*
+*.tmp
+memory.json
+settings.json
